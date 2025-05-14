@@ -42,7 +42,7 @@ Estoy reforzando mis conocimientos en:
 
 - 💻 Atención técnica en TIGO: diagnóstico y solución de problemas en servicios de telecomunicaciones
 - 📱 Soporte técnico en UNIDA
-- 🗄️ Trabajo actual con bases de datos en ITTI
+- 🗄️ Trabajo actual como Soporte Funcional de Aplicaciones con bases de datos en ITTI
 - 🏫 Desarrollo de sistemas académicos, laborales y administrativos
 
 ---
@@ -51,7 +51,7 @@ Estoy reforzando mis conocimientos en:
 
 - 📲 **Sistema de reparación de celulares** (React + Tailwind)
 - 🎓 **Plataforma Web** para universidades (matrícula, gestión académica, seguimiento)
-- 🔒 Sistema de control para exámenes en red restringida (Proyecto universitario grupañ)
+- 🔒 Sistema de control para exámenes en red restringida (Proyecto universitario grupal)
 
 ---
 
