@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jannely | Desarrolladora Web y Soporte Funcional
+# 👋 Hola, soy Jannely | Jr. Software Engineer
 
 Soy estudiante de Ingeniería en Sistemas apasionada por el desarrollo de software, especialmente en la creación de soluciones prácticas para problemas reales. Actualmente me enfoco en desarrollo **frontend con React**, construyendo interfaces modernas, limpias y funcionales. También tengo experiencia en **soporte técnico** y **bases de datos**, lo que me da una visión integral del mundo de la tecnología.
 
