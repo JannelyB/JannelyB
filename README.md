@@ -42,7 +42,7 @@ Estoy reforzando mis conocimientos en:
 
 - 💻 Atención técnica en TIGO: diagnóstico y solución de problemas en servicios de telecomunicaciones
 - 📱 Soporte técnico en UNIDA
-- 🗄️ Trabajo actual como Soporte Funcional de Aplicaciones con bases de datos en ITTI
+- 🗄️ Trabajo actual como Jr. Software Engineer en ITTI
 - 🏫 Desarrollo de sistemas académicos, laborales y administrativos
 
 ---
