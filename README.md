@@ -6,7 +6,7 @@ Soy estudiante de último año de **Ingeniería en Sistemas** en la UNIDA y me d
 
 ## 🚀 Proyectos Destacados
 
-### 🔧 FIXTEC - Gestión Integral de Talleres Técnicos (Proyecto UNIDA)
+### 🔧 FIXTEC - Gestión Integral de Talleres Técnicos (Proyecto aplicado para ayuda a la comunidad en la UNIDA)
 *Plataforma Full-Stack diseñada para la gestión de servicios técnicos informáticos.*
 
 **Stack & Despliegue:**
