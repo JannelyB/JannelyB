@@ -1,61 +1,76 @@
-# 👋 Hola, soy Jannely | Jr. Software Engineer
+# 👋 Hola, soy Jannely Larizza Barreto Duarte | Jr. Software Engineer
 
-Soy estudiante de último año de **Ingeniería de Sistemas** apasionada por crear soluciones tecnológicas que resuelvan problemas reales. Actualmente me desempeño como **Jr. Software Engineer en ITTI**, donde aplico mis conocimientos en desarrollo de software y gestión de proyectos en un entorno profesional.
-
----
-
-## 🚀 En qué estoy trabajando
-
-🍽️ **[Sistema de Gestión para Restaurantes](https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO)**:
-- Desarrollo Full Stack con **React** y próximamente **Node.js**.
-- Gestión profesional mediante **Metodologías Ágiles (Scrum/Kanban)** organizada por Épicas.
-- Implementación de lógica avanzada: Validación por **GPS**, monitores de alta visibilidad (**Soft UI**) y gestión de pedidos en tiempo real.
-
-🔧 **Sistema de Gestión de Reparaciones**:
-- Inspirado en mi experiencia previa técnica en dispositivos móviles.
-- Enfoque en arquitectura moderna y persistencia de datos con **SQL/NoSQL**.
+Soy estudiante de último año de **Ingeniería en Sistemas** en la UNIDA y me desempeño como **Jr. Software Engineer en ITTI**. Mi enfoque está en crear soluciones tecnológicas robustas que resuelvan problemas reales, combinando mi base técnica en hardware con arquitectura de software moderna y despliegue en la nube.
 
 ---
 
-## 🧠 Habilidades técnicas
+## 🚀 Proyectos Destacados
 
-- **Lenguajes & Frameworks**: React, JavaScript, Java, Python.
-- **Infraestructura**: Aprendizaje y uso de **Docker** para contenedores.
-- **Gestión de Proyectos**: Scrum, Kanban, documentación técnica y análisis de requerimientos.
-- **Herramientas**: Git, GitHub, VS Code, Postman.
+### 🔧 FIXTEC - Gestión Integral de Talleres Técnicos (Proyecto UNIDA)
+*Plataforma Full-Stack diseñada para la gestión de servicios técnicos informáticos.*
 
----
+**Stack & Despliegue:**
+* **Frontend:** **React.js** (SPA) con **Tailwind CSS**.
+* **Backend:** API RESTful en **Node.js** con **Express** y **PostgreSQL**.
+* **Infraestructura:** Desplegado profesionalmente en **Hostinger** utilizando servidores **VPS (KVM 2)**.
+* **Contenedores:** Uso de **Docker** para asegurar la consistencia del entorno.
 
-## 🌱 Roadmap 2026
 
-Estoy enfocada en mi crecimiento hacia un perfil **Full Stack & DevOps**:
-- **Marzo 2026**: Culminación de mi último año de Ingeniería de Sistemas.
-- **Especialización**: Profundizando en **AWS**, arquitecturas de microservicios y CI/CD con GitHub Actions.
-- **Idiomas**: Inglés técnico nivel intermedio.
+### 🍽️ Sistema de Gestión Gastronómica (Privado)
+*Automatización de pedidos y flujo de trabajo en tiempo real.*
 
----
-
-## 💼 Experiencia
-
-- 🗄️ **Jr. Software Engineer en ITTI** (Actual): Desarrollo y mantenimiento de software profesional.
-- 📱 **Soporte Técnico e Independiente**: Mi paso por la reparación de celulares y plataformas de movilidad me brindó una visión práctica de la resolución de problemas bajo presión.
-- 💻 **Atención Técnica (Tigo/UNIDA)**: Diagnóstico y solución de problemas en telecomunicaciones y sistemas académicos.
+* **Tecnologías:** **React.js**, **Node.js**, **PostgreSQL** y **Socket.io** para sincronización instantánea.
+* **Seguridad:** Autenticación basada en roles con **JWT**.
+* **Innovación:** Interfaz **Soft UI** y lógica de validación por **GPS**.
 
 ---
 
-## ✨ Proyectos destacados
+## 💼 Experiencia Profesional
 
-- 🍽️ **Gestión Gastronómica**: Sistema integral con flujos para clientes, mozos y cocina.
-- 🎓 **Plataformas Académicas**: Desarrollo de sistemas de matrícula y gestión universitaria.
-- 🔒 **Control de Exámenes**: Sistema de seguridad para redes restringidas (Proyecto grupal).
+### 💻 ITTI | Jr. Software Engineer 
+*Junio 2024 - Actualidad*
+
+* **Ingeniería de Datos & APIs:** Análisis de integridad financiera y ejecución de correcciones críticas mediante queries complejas en **PL/SQL**.
+* **Gestión de Middleware:** Administración de metadatos, gestión de tokens y corrección de registros en tiempo real utilizando **Postman**.
+* **Observabilidad & Seguridad:** Monitoreo de sesiones y diagnóstico de errores de acceso/biometría mediante **New Relic**.
+* **Core Bancario:** Operación técnica en plataformas como Crediware, Bankiti y Mastercard Connect para gestión de wallets/NFC.
+
+### 🖥️ SES S.A. | Asistente de Sistemas 
+*Noviembre 2023 - Mayo 2024*
+
+* **Implementación Técnica:** Monitoreo de sistemas e implementación de cambios para la optimización de procesos internos.
+* **Integración:** Carga de información en plataformas de datos y soporte técnico especializado.
+
+### 📡 Millicom - Tigo | Soporte Técnico Convergente 
+*Marzo 2020 - Noviembre 2023*
+
+* **Resolución de Incidencias:** Diagnóstico de conectividad y seguridad en servicios financieros (Tigo Money) y **redes** hogareñas.
+
+---
+
+## 🧠 Habilidades Técnicas
+
+* **Lenguajes & Frameworks:** React, JavaScript, Java, Python, C++.
+* **Bases de Datos:** Experiencia sólida en SQL, NoSQL y especialización en **PL/SQL**.
+* **Cloud & DevOps:** Despliegue en **Hostinger VPS (KVM)**, contenedores con **Docker** y formación en **AWS**.
+* **Herramientas:** Postman, New Relic, Git, VS Code.
+
+---
+
+## 🎓 Educación
+
+* **Ingeniería en Sistemas** (Último año) - UNIDA, 2021-2026.
+* **Programa de Competencias Digitales** (300h) - IMMUNE Tech Institute, 2025.
+* **Bachillerato Técnico en Electrotecnia** - Escuela Nac. Comercio N°1, 2019.
 
 ---
 
 ## 📫 Contacto
 
-- ✉️ Email: jannelybarreto123@gmail.com
-- 📍 Capiatá, Paraguay
+* ✉️ **Email:** jannelybarreto123@gmail.com
+* 📍 **Ubicación:** Ñemby, Paraguay
+* 🏋️ **Rutina:** Entusiasta de la tecnología y el entrenamiento (Gym a las 15:00).
 
 ---
 
-> 🌟 **"El conocimiento que no se practica, se oxida."** > Creo en aprender haciendo y en el poder de la tecnología para transformar oportunidades. De soporte técnico a ingeniería, sigo subiendo con pasión y constancia.
+> 🌟 **"El conocimiento que no se practica, se oxida."**
