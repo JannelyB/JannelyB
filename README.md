@@ -69,7 +69,7 @@ Soy estudiante de último año de **Ingeniería en Sistemas** en la UNIDA y me d
 
 * ✉️ **Email:** jannelybarreto123@gmail.com
 * 📍 **Ubicación:** Ñemby, Paraguay
-* 🏋️ **Rutina:** Entusiasta de la tecnología y el entrenamiento (Gym a las 15:00).
+* 🏋️ **Rutina:** Entusiasta de la tecnología y el entrenamiento.
 
 ---
 
